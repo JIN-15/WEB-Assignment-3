@@ -85,13 +85,13 @@ book-management-app/
 
 2. **Install dependencies**
 
-   ```bash
+   ```
    npm install
    ```
 
 3. **Start the development server**
 
-   ```bash
+   ```
    npm start
    ```
 
@@ -103,7 +103,7 @@ book-management-app/
 
 You can use one of these sample users to log in:
 
-```json
+```
 {
   "email": "john.doe@example.com",
   "password": "password123"
