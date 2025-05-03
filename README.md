@@ -70,7 +70,7 @@ book-management-app/
 ├── package.json
 └── README.md
 
-````
+```
 
 ---
 
@@ -81,7 +81,7 @@ book-management-app/
    ```
    git clone https://github.com/JIN-15/WEB-Assignment-3
    cd book-management-app
-```
+   ```
 
 2. **Install dependencies**
 
